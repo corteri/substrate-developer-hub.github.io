@@ -4,7 +4,7 @@ title: On-Chain Randomness
 
 Randomness has many applications in computer science and beyond. For example it is used in selecting
 councilors in some governance systems, performing statistical or scientific analyses, performing
-cryptographic operations, and gaming and gambling. Many randomness-requiring applications are
+cryptographic operations, gaming and gambling. Many randomness-requiring applications are
 already finding a home on blockchain networks. This article describes how randomness is produced and
 used in Substrate runtimes.
 
